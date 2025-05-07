@@ -22,7 +22,7 @@ A modern Android application built with Jetpack Compose that displays job listin
 ## 🚀 Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/job-listing-app.git
+   git clone https://github.com/gourav-jamdhade/Jobs-App-Lokal-Assignment
 ![deepseek_mermaid_20250506_9a2490](https://github.com/user-attachments/assets/92d9c31e-d13c-4c6b-80c2-c8969ffd29c2)
 
 
